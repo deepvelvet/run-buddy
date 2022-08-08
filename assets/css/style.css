@@ -289,7 +289,7 @@ section {
 }
 
 .step:not(:last-child) {
-  border-bottom: 1px solid var(--tertiary-color);
+  border-bottom: 1px solid #39a6b2;
 }
 
 .step h3 {
@@ -465,7 +465,7 @@ section {
     header {
       padding-bottom: 0;
       justify-content: center;
-      position: relative
+      position: relative;
     }
   
     header h1 {
