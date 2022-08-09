@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://deepvelvet.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by David Miller
 
 ### ©️2019 Run Buddy, Inc 
